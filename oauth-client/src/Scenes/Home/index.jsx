@@ -3,8 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 const params = {
-  client_id: '',
-  redirect_uri: '',
+  client_id: '87b570799d4fb508c3b0',
+  redirect_uri: 'http://localhost:3000/auth',
 };
 
 class App extends Component {
